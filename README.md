@@ -9,11 +9,13 @@ Univesidad de Granada
 
 ----
 
-**Titulo** : _______
+**Titulo** : Secretos de Ciudad 
 
-**Autor(es)** ______________
+**Autor(es)** : Maria Luisa Avilés Padilla
 
-**Resumen** : _________
+**Resumen** :  Aunque, ya está todo descubierto, y hay pocos sitios que parezcan realmente asombrosos o novedosos, hay veces en las que debemos de redescubrir una ciudad, ya que podemos llegar a encontrar bonitos tesoros escondidos. De ahí surge esta idea, ¿de verdad conocemos una ciudad a fondo? ¿Hemos sido capaces de hallar ese lugar poco masificado de turistas y que resulta ser increíble?
+
+La idea de este proyecto es básicamente dar a conocer lugares poco conocidos de diferentes ciudades. La primera visita será a rincones secretos de Granada. Para ello, se van utilizar diferentes plataformas para completar la historia y hacer más dinámico y multimedia el reportaje. El nombre que va a recibir este proyecto es Secretos de Ciudad.
 
 **logotipo** :  ________
 
