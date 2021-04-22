@@ -72,7 +72,8 @@ Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomul
 
 ### Etapa 2: Prototipar / productos 
 
-(Productos que has desarrollado y como se plantea la integración de los diferentes medios, pon los que uses) 
+Prototipo de Protopie sobre la App Secretos de Ciudad: https://cloud.protopie.io/p/4dc421b734/1?ui=false&mockup=false&touchHint=false&scaleToFit=false&cursorType=touch
+(Productos que has desarrollado y como se plantea la integración de los diferentes medios, pon los que uses)
 
 * Imagen visual (Portada / Diseño de Interfaz) y herramienta usada 
 
