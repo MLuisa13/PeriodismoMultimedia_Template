@@ -17,12 +17,12 @@ Univesidad de Granada
 
 La idea de este proyecto es básicamente dar a conocer lugares poco conocidos de diferentes ciudades. La primera visita será a rincones secretos de Granada. Para ello, se van utilizar diferentes plataformas para completar la historia y hacer más dinámico y multimedia el reportaje. El nombre que va a recibir este proyecto es Secretos de Ciudad.
 
-**logotipo** :  ![sECRETOS DE CIUDAD BUENOS 3](https://user-images.githubusercontent.com/82603706/115732124-fd44f780-a387-11eb-87f8-2fd09f425f34.png)
+**logotipo** :  https://github.com/MLuisa13/PeriodismoMultimedia_Template/blob/master/sECRETOS%20DE%20CIUDAD%20BUENOS%203.png
 
 
-**Slogan** (frase motivadora/inspiradora): ________
+**Slogan** (frase motivadora/inspiradora): Redescrubre una ciudad
 
-**Hashtag**  ___
+**Hashtag** : #secretosdeciudad
 
 **Licencia**    (usar una creative commons: revisar en https://creativecommons.org/licenses/?lang=es_ES) 
 
