@@ -139,13 +139,14 @@ Referencias y recursos:
 * Productos utilizados  
 * Propuestas de me
 
--  Procedí a la descarga del programa Protopie  en su página oficial, además seguí parte de su documentación  para aprender a manejar el programa  mediante la pestaña de ayuda que ofrece su interfaz:  https://www.protopie.io/
+Procedí a la descarga del programa Protopie en su página oficial, además seguí parte de su documentación para aprender a manejar el programa mediante la pestaña de ayuda que ofrece su interfaz: https://www.protopie.io/
 
--  Páginas webs relacionadas con la temática del proyecto:
-https://rinconesdegranada.com/tag/descubre-granada
-http://www.granadatur.com/que-visitar
-https://www.spain.info/es/region/granada-provincia/
-https://www.andalucia.org/es/provincia-granada
+Páginas webs relacionadas con la temática del proyecto: 
+ https://rinconesdegranada.com/tag/descubre-granada 
+ http://www.granadatur.com/que-visitar 
+ https://www.spain.info/es/region/granada-provincia
+ https://www.andalucia.org/es/provincia-granada
+ 
 
 
 (...)
