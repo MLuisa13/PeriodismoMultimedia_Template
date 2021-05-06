@@ -20,7 +20,6 @@ El nombre que va a recibir este proyecto es Secretos de Ciudad.
 
 **logotipo** :  https://github.com/MLuisa13/PeriodismoMultimedia_Template/blob/master/sECRETOS%20DE%20CIUDAD%20BUENOS%203.png
 
-
 **Slogan** : Redescubre una ciudad / Atrévete a descubrir
 
 **Hashtag** : #secretosdeciudad #granada
@@ -38,6 +37,8 @@ El nombre que va a recibir este proyecto es Secretos de Ciudad.
 * Twitter :  https://twitter.com/SecretosCiudad
 
 * App para móvil: https://cloud.protopie.io/p/4dc421b734
+
+* Presentación del proyecto: https://www.canva.com/design/DAEdsou7e0Q/on63QIHjv3YLcpeG06-B_w/view?utm_content=DAEdsou7e0Q&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
 
 
 
