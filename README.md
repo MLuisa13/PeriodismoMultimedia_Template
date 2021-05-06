@@ -24,7 +24,8 @@ La idea de este proyecto es básicamente dar a conocer lugares poco conocidos de
 
 **Hashtag** : #secretosdeciudad #granada
 
-**Licencia**    (usar una creative commons: revisar en https://creativecommons.org/licenses/?lang=es_ES) 
+**Licencia** :
+* Reconocimiento-NoComercial-CompartirIgual
 
 **Fecha** : 2021
 
