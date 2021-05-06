@@ -60,7 +60,7 @@ Actividades realizadas mediante Trello  https://trello.com/c/acy52G38/37-secreto
 
 **Motivación de la propuesta** :  El aliciente principal para crear este proyecto es que normalmente el turista que visita un lugar se enfoca en visitar los sitios típicos del mismo. Está claro que, en este caso en el paseo por la primera ciudad que es Granada; no puede faltar la visita a la Alhambra. Sin embargo, con Secretos de Ciudad, lo que se pretende es que el viajero descubra lugares poco masificados de turistas, que conozca los monumentos o sitios más míticos, pero también los poco reconocibles. Rincones escondidos, nuevos parajes al aire libre, rutas novedosas por la ciudad, etc.
 
-**Personas/Usuarios** : El público y los usuarios objetivos de este proyecto son, principalmente, curiosos y aventureros que quieren descubrir una ciudad más allá del turismo estándar y tradicional. Aquellas personas que buscan lo diferente, lo escondido, lo que un turista normal pasa por alto, son con las que se cuentan en Secretos de Ciudad.Este proyecto va enfocado a esas personas que quieren redescubrir su ciudad, pero sobre todo, a aquellas que 
+**Personas/Usuarios** : El público y los usuarios objetivos de este proyecto son, principalmente, curiosos y aventureros que quieren descubrir una ciudad más allá del turismo estándar y tradicional. Aquellas personas que buscan lo diferente, lo escondido, lo que un turista normal pasa por alto, son con las que se cuentan en Secretos de Ciudad.
 
 **Estilo de narración** : Para llevar a cabo la experiencia y el disfrute de la misma, el usuario necesita de un dispositivo smartphone, tablet u ordenador, conectados a Internet. El proyecto se desarrollará en Twitter, para darse a conocer primordialmente, una página web y una aplicación para móvil.
  
@@ -77,11 +77,14 @@ Actividades realizadas mediante Trello  https://trello.com/c/acy52G38/37-secreto
 Prototipo de Protopie sobre la App Secretos de Ciudad: https://cloud.protopie.io/p/4dc421b734/1?ui=false&mockup=false&touchHint=false&scaleToFit=false&cursorType=touch
 (Productos que has desarrollado y como se plantea la integración de los diferentes medios, pon los que uses)
 
-* Imagen visual (Portada / Diseño de Interfaz) y herramienta usada 
+* Imagen visual (Portada / Diseño de Interfaz) y herramienta usada :
 
-* redes sociales (...) 
+* Imagen de  visual del proyecto: https://github.com/MLuisa13/Secretos-de-Ciudad/blob/master/sECRETOS%20DE%20CIUDAD%20BUENOS%203.png?raw=true 
+ La herramienta utilizada para la creación del logotipo ha sido Canva
 
-* publicidad: banner (... ) 
+* redes sociales (...)  : Twitter
+
+* publicidad: banner (... )  : Publicidad en Twitter a través de la propia cuenta del proyecto y de publicidad pagada en la misma red social.
 
 * ...
 
@@ -89,7 +92,7 @@ Prototipo de Protopie sobre la App Secretos de Ciudad: https://cloud.protopie.io
 
 (Estrategia que plantearías para evaluar tu propuesta, medidodes e indicadores de éxito, elige / propone) 
 
-* Test con usuarios (...) 
+* Test con usuarios (...) : En la app móvil hay una sección en la que los usuarios pueden contar sus propuestas. La evalucación del éxito del proyecto se mediría a través del número de descargas de la aplicación y de la interacción de los usuarios con la misma.
 * ... 
 
 
