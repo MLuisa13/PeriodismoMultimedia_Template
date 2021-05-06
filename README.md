@@ -20,13 +20,13 @@ La idea de este proyecto es básicamente dar a conocer lugares poco conocidos de
 **logotipo** :  https://github.com/MLuisa13/PeriodismoMultimedia_Template/blob/master/sECRETOS%20DE%20CIUDAD%20BUENOS%203.png
 
 
-**Slogan** (frase motivadora/inspiradora): Redescrubre una ciudad
+**Slogan** : Redescubre una ciudad
 
-**Hashtag** : #secretosdeciudad
+**Hashtag** : #secretosdeciudad #granada
 
 **Licencia**    (usar una creative commons: revisar en https://creativecommons.org/licenses/?lang=es_ES) 
 
-**Fecha** : 2020
+**Fecha** : 2021
 
 **Medios** (donde se tiene presencia): 
 
@@ -43,22 +43,24 @@ La idea de este proyecto es básicamente dar a conocer lugares poco conocidos de
 
 Metodología de desarrollo: Diseño de contenidos digitales mediante estrategia de diseño de Experiencias de usuario (UX experiences) 
 
+* Protopie (diseño app)
+
 ### Etapa 1: Ideación de proyecto 
 
-Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomultimedia
+Actividades realizadas mediante Trello  https://trello.com/c/acy52G38/37-secretos-de-ciudad
 
 **Investigación de campo**   Desk research propuestas inspiradoras para el proyecto) 
 
-* @LadyDistopia (link) ...¿ por qué ?
+* Página web de turismo https://descubriendogranada.com/
 * (...)
 * 
 
 
-**Necesidad/oportunidad** 
+**Necesidad/oportunidad** En la época que estamos viviendo y debido a las restricciones para viajar, se hace necesario el moverse dentro de la propia ciudad en la que se reside. Este proyecto va enfocado a esas personas que quieren redescubrir su ciudad, pero sobre todo, a aquellas que vienen de lugares cercarnos y desean conocer sitios poco masificados de turistas.
 
-**Motivación de la propuesta** .... ¿ por qué consideras interesante ? 
+**Motivación de la propuesta** :  El aliciente principal para crear este proyecto es que normalmente el turista que visita un lugar se enfoca en visitar los sitios típicos del mismo. Está claro que, en este caso en el paseo por la primera ciudad que es Granada; no puede faltar la visita a la Alhambra. Sin embargo, con Secretos de Ciudad, lo que se pretende es que el viajero descubra lugares poco masificados de turistas, que conozca los monumentos o sitios más míticos, pero también los poco reconocibles. Rincones escondidos, nuevos parajes al aire libre, rutas novedosas por la ciudad, etc.
 
-**Personas/Usuarios** : El público y los usuarios objetivos de este proyecto son, principalmente, curiosos y aventureros que quieren descubrir una ciudad más allá del turismo estándar y tradicional. Aquellas personas que buscan lo diferente, lo escondido, lo que un turista normal pasa por alto, son con las que se cuentan en Secretos de Ciudad.
+**Personas/Usuarios** : El público y los usuarios objetivos de este proyecto son, principalmente, curiosos y aventureros que quieren descubrir una ciudad más allá del turismo estándar y tradicional. Aquellas personas que buscan lo diferente, lo escondido, lo que un turista normal pasa por alto, son con las que se cuentan en Secretos de Ciudad.Este proyecto va enfocado a esas personas que quieren redescubrir su ciudad, pero sobre todo, a aquellas que 
 
 **Estilo de narración** : Para llevar a cabo la experiencia y el disfrute de la misma, el usuario necesita de un dispositivo smartphone, tablet u ordenador, conectados a Internet. El proyecto se desarrollará en Twitter, para darse a conocer primordialmente, una página web y una aplicación para móvil.
  
