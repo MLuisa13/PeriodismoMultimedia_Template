@@ -78,7 +78,7 @@ Actividades realizadas mediante Trello  https://trello.com/c/acy52G38/37-secreto
 ### Etapa 2: Prototipar / productos 
 
 Prototipo de Protopie sobre la App Secretos de Ciudad: https://cloud.protopie.io/p/4dc421b734/1?ui=false&mockup=false&touchHint=false&scaleToFit=false&cursorType=touch
-(Productos que has desarrollado y como se plantea la integración de los diferentes medios, pon los que uses)
+
 
 * Imagen visual (Portada / Diseño de Interfaz) y herramienta usada :
 
