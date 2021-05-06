@@ -35,7 +35,7 @@ La idea de este proyecto es básicamente dar a conocer lugares poco conocidos de
 
 * Twitter :  https://twitter.com/SecretosCiudad
 
-* App para móvil
+* App para móvil: https://cloud.protopie.io/p/4dc421b734
 
 
 
@@ -124,14 +124,28 @@ Asimismo, a mi parecer, Protopie es un programa para crear prototipos de aplicac
 
 Considero que es importante la continuación del proyecto porque en sí mismo es novedoso y en la época que se esta viviendo daría un enfoque nuevo al turismo y al viajero que esta un poco harto de visitar siempre lo mismo. Sin embargo, la magnitud del proyecto en su inicio es relativamente pequeño y se publicaría una fase experimental para conocer la popularidad que podría tener. De esta forma, si tuviera éxito la app se podría mejorar (como se ha dicho anteriormente) con programas más específicos y completos.
 
-* Posible interés del proyecto (¿ Quien podría  colaborar / involucrarse en el proyecto? ¿viable?)
+* Posible interés del proyecto (¿ Quien podría  colaborar / involucrarse en el proyecto? ¿viable?): 
+
+En este proyecto podrían colaborar personal especializado en la creación de aplicaciones móviles. Además, también sería de interés para historiadores y guías turísticos de la ciudad que podrían divulgar sus conocimientos sobre la materia. 
+
+Asimismo, si el proyecto saliera adelante, esta primera ruta de rincones secretos de Granada; podría ser de interés para el mismo ayuntamiento de la ciudad e incluso para la diputación, que podría considerarlo como material de promoción de Granada. Además, dicho lo anterior, Secretos de Ciudad estaría dedicado cada mes a una ciudad o pueblo distinto, por lo que sería posible considerar que ayuntamientos de toda España pusieran el ojo en el proyecto para dar publicidad a su localidad y atraer así un mayor turismo a ella. 
+
 
 
 Referencias y recursos: 
 
-* Artículos ..  
+* Artículos
 * Productos utilizados  
 * Propuestas de me
+
+-  Procedí a la descarga del programa Protopie  en su página oficial, además seguí parte de su documentación  para aprender a manejar el programa  mediante la pestaña de ayuda que ofrece su interfaz:  https://www.protopie.io/
+
+-  Páginas webs relacionadas con la temática del proyecto:
+https://rinconesdegranada.com/tag/descubre-granada
+http://www.granadatur.com/que-visitar
+https://www.spain.info/es/region/granada-provincia/
+https://www.andalucia.org/es/provincia-granada
+
 
 (...)
 
