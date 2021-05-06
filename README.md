@@ -20,7 +20,7 @@ La idea de este proyecto es básicamente dar a conocer lugares poco conocidos de
 **logotipo** :  https://github.com/MLuisa13/PeriodismoMultimedia_Template/blob/master/sECRETOS%20DE%20CIUDAD%20BUENOS%203.png
 
 
-**Slogan** : Redescubre una ciudad
+**Slogan** : Redescubre una ciudad / Atrévete a descubrir
 
 **Hashtag** : #secretosdeciudad #granada
 
@@ -32,7 +32,9 @@ La idea de este proyecto es básicamente dar a conocer lugares poco conocidos de
 
 
 *  :octocat: (github url) 
-* Twitter 
+
+* Twitter :  https://twitter.com/SecretosCiudad
+
 * App para móvil
 
 
@@ -102,9 +104,26 @@ Prototipo de Protopie sobre la App Secretos de Ciudad: https://cloud.protopie.io
 ### Conclusiones y trabajo futuro
 
 
-* Grado de consecución del proyecto 
+* Grado de consecución del proyecto :
+
+Se han realizado avances cada día desde el inicio del proyecto. En primer lugar, se ha atendido a la explicación del uso del programa Protopie. A partir de aquí, se ha iniciado el proceso de creación de la aplicación móvil con ese mismo programa. En tanto, se ha creado también el perfil de Twitter del proyecto. Además, se ha elegido la paleta de colores que posteriormente se iban a utilizar y se ha diseñado el logotipo del proyecto “Secretos de Ciudad” en Canva. 
+
+Se ha realizado el prototipo de la aplicación desde 0, y añadiendo cosas poco a poco. Además, se ha necesitado de la ayuda de tutoriales de Protopie para aprender a manejar de forma básica el programa.
+
+Finalmente, se ha realizado un prototipo básico de la app móvil, y se ha desarrollado el perfil de Twitter de Secretos de Ciudad.
+
+
 * Problemas identificados  (técnicos / sobre la idea inicial / planificacion… ) 
+
+Al aprender a utilizar Protopie, me he percatado de que, aunque la aplicación es bastante intuitiva y sencilla, resulta a veces complicado insertar un trigger en un escenario. Cabe destacar también, que en ocasiones el trigger insertado no funciona de la manera esperada y que la mayoría de los mismos incluidos son de hacer “tap”. 
+
+Asimismo, a mi parecer, Protopie es un programa para crear prototipos de aplicaciones básicas que si se llevan a cabo, a la larga, se deberían de realizar con programas más completos y experimentados.
+
+
 * Propuestas de mejora (por qué consideras que merece la pena continuar)
+
+Considero que es importante la continuación del proyecto porque en sí mismo es novedoso y en la época que se esta viviendo daría un enfoque nuevo al turismo y al viajero que esta un poco harto de visitar siempre lo mismo. Sin embargo, la magnitud del proyecto en su inicio es relativamente pequeño y se publicaría una fase experimental para conocer la popularidad que podría tener. De esta forma, si tuviera éxito la app se podría mejorar (como se ha dicho anteriormente) con programas más específicos y completos.
+
 * Posible interés del proyecto (¿ Quien podría  colaborar / involucrarse en el proyecto? ¿viable?)
 
 
